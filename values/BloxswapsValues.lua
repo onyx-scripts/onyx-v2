@@ -893,8 +893,6 @@ return {
     {"Strawberries","Knife","2026","","Common",0.05},
     {"Hearts","Knife","2026","","Common",0.05},
     {"Cherries","","2026","","Common",0.05},
-    {"Frozen","Knife","2022","","Common",0},
-    {"Frozen","Gun","2022","","Common",0},
     {"Corrupt","","","","Unique",240},
     {"Zombie Dog","Pet","2019","","Common",800},
     {"Elf","Pet","2019","","Uncommon",625},
