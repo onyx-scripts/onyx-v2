@@ -696,7 +696,6 @@ return {
     {"Gift Bag","Gun","2020","","Common",1.1},
     {"Apocalypse","Knife","2022","","Common",1.1},
     {"Hunter","","2022","","Common",1.1},
-    {"Boney","","2022","","Common",1.1},
     {"Slashed","","2020","","Common",1.1},
     {"Snowflakes","Knife","2019","","Common",1.1},
     {"Cane","Gun","2021","","Common",1.1},
