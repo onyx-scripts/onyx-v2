@@ -186,7 +186,7 @@ return {
     {"Celestial","","","","Ancient",1950},
     {"Vampires Axe","","","","Ancient",1425},
     {"Emberbow","","","","Ancient",575},
-    {"Emberscythe","","","","Ancient",450},
+    {"Emberscythe","","","","Ancient",500},
     {"Harvester","","","","Ancient",250},
     {"Icepiercer","","","","Ancient",165},
     {"Icebreaker","","","","Ancient",70},
