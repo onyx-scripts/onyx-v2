@@ -39,6 +39,7 @@ return {
     {"Mortal","","2026","","Godly",135},
     {"Borealis","","2024","","Godly",135},
     {"Icecream","","2026","","Godly",135},
+    {"Embersickle","","2026","","Godly",130},
     {"Australis","","2024","","Godly",130},
     {"Candy","","2015","","Godly",90},
     {"Pearlshine","","","","Godly",90},
