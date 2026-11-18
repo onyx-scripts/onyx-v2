@@ -130,7 +130,7 @@ return {
     {"<a class=\"itemlink\" href=\"/mm2/godlies?item=Orange_Seer\">Orange Seer</a>","","","Season 1","Godly",2},
     {"<a class=\"itemlink\" href=\"/mm2/godlies?item=Yellow_Seer\">Yellow Seer</a>","","","Season 1","Godly",2},
     {"<a class=\"itemlink\" href=\"/mm2/chromas?item=CTG\">C. Traveler's Gun</a>","","2023","Halloween","Chroma",140000},
-    {"<a class=\"itemlink\" href=\"/mm2/chromas?item=CEvergun\">Chroma Evergun</a>","","2023","Christmas","Chroma",47000},
+    {"<a class=\"itemlink\" href=\"/mm2/chromas?item=CEvergun\">Chroma Evergun</a>","","2023","Christmas","Chroma",48000},
     {"<a class=\"itemlink\" href=\"/mm2/chromas?item=CEvergreen\">Chroma Evergreen</a>","","2023","Christmas","Chroma",34000},
     {"<a class=\"itemlink\" href=\"/mm2/chromas?item=CBaub\">Chroma Bauble</a>","","2024","Christmas","Chroma",29000},
     {"<a class=\"itemlink\" href=\"/mm2/chromas?item=CConst\">C. Constellation</a>","","2024","Christmas","Chroma",27000},
